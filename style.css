@@ -1,0 +1,21 @@
+header {
+  text-align: center;
+}
+
+#plot {
+  text-align: center;
+  padding: 20px;
+  margin: 10px 300px;
+  text-align-last: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: x-large;
+  color: black;
+  border: dotted red;
+  border-width: 5px;
+}
+img {
+  display: block;
+  max-width: 80%;
+  margin: auto;
+  margin-top: 10px;
+}
